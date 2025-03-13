@@ -39,6 +39,7 @@ body {
 
 .one {
   font-size: 4.5rem;
+  word-wrap: break-word;
 }
 
 .one > img {
